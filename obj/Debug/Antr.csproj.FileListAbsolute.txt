@@ -1,0 +1,15 @@
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr.csprojAssemblyReference.cache
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\MainWindow.g.cs
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\App.g.cs
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr_MarkupCompile.cache
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr_MarkupCompile.lref
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr.exe
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr.pdb
+C:\Users\tlvla\source\repos\MyStat\Antr\bin\Debug\Antr.exe.config
+C:\Users\tlvla\source\repos\MyStat\Antr\bin\Debug\Antr.exe
+C:\Users\tlvla\source\repos\MyStat\Antr\bin\Debug\Antr.pdb
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\MainWindow.baml
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr.g.resources
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr.Properties.Resources.resources
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr.csproj.GenerateResource.cache
+C:\Users\tlvla\source\repos\MyStat\Antr\obj\Debug\Antr.csproj.CoreCompileInputs.cache

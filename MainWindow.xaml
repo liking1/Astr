@@ -1,0 +1,54 @@
+﻿<Window x:Class="Antr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Antr"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Border CornerRadius="5" Background="Beige" Margin="15" Grid.ColumnSpan="2" >
+            <Label Content="STUDENT INFORMATION" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="35"/>
+        </Border>
+        <Image Height="60" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Source="j.png" Margin="123,30,81,30" Width="60"/>
+        <Border Grid.Row="1" CornerRadius="5" Background="Beige" Margin="15">
+            <StackPanel>
+                <TextBlock Text="Select Group" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20 20 0 0" FontSize="15"/>
+                <TextBox Width="Auto" Margin="19" VerticalAlignment="Top"></TextBox>
+                <TextBlock Text="Select Student" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20 0 0 0" FontSize="15"/>
+                <TextBox Width="Auto" Margin="19" ></TextBox>
+                <TextBlock Text="Best Students" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20 0 0 0" FontSize="15"/>
+                <TextBox Width="Auto" Margin="19" VerticalAlignment="Top"></TextBox>
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1" Grid.Column="1" CornerRadius="5" Background="Beige" Margin="15">
+            <StackPanel>
+                <TextBlock Text="Name: " FontSize="15" Margin="130 25 0 0"/>
+                <Separator Margin="130,5,40,5"/>
+                <TextBlock Text="Age: " FontSize="15" Margin="130 0 0 0"/>
+                <Separator Margin="130,5,40,5"/>
+                <TextBlock Text="State: " FontSize="15" Margin="130 0 0 0"/>
+                <Separator Margin="130,5,40,5"/>
+                <TextBlock Text="Group: " FontSize="15" Margin="130 0 0 0"/>
+                <Separator Margin="130,5,40,5"/>
+                <TextBlock Text="Rewards: " FontSize="15" Margin="130 0 0 0"/>
+                <Separator Margin="130,5,40,5"/>
+                <TextBlock Text="Cristals: " FontSize="15" Margin="130 0 0 0"/>
+                <Separator Margin="130,5,40,5"/>
+                <TextBlock Text="Current Theme: " FontSize="15" Margin="130 0 0 0"/>
+                <Separator Margin="130,5,40,5"/>
+
+            </StackPanel>
+        </Border>
+        <Image Grid.Row="1" Grid.Column="1" Source="323232.jpg" Width="70" Height="70" HorizontalAlignment="Left" Margin="50"/>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+</Window>
